@@ -18,7 +18,7 @@ export OPENSHIFT_RELEASE=v3.11
 export MACHINE_IP=10.10.10.10
 ```
 
-2. Build RHEL 7.5 image using (packer)[https://www.packer.io/downloads.html]:
+2. Build RHEL 7.5 image using [packer](https://www.packer.io/downloads.html):
 
 PS. **openshift-enterprise**, a few additional steps are required:
 
