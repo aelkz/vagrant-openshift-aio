@@ -2,4 +2,3 @@
 .vault
 credentials.yml
 *.retry
-images
