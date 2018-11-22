@@ -60,7 +60,7 @@ mv packer-rhel/rhel-7.5-ocp.box .
 
 3. Set RHN Credentials:
 
-- Create `ansible/vars/credentials.yml` with `ansible-vault` and the following content:
+- Create `ansible/vars/credentials.yml` with the following content:
 
 ```yaml
 rhn_username: user
